@@ -1,5 +1,5 @@
 # Medical Clinic Management Project
-Projet pour la gestion d'un cabinet medical
+
 The purpose of this project is to design and develop an application for the management of a medical clinic, including appointment scheduling, patient management, consultations, etc. This will be achieved using Java Beans and JavaFX for the user interface and SQLite for the database.
 
 ## Application Interfaces:
